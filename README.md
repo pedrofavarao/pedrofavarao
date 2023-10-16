@@ -22,7 +22,6 @@ Sou um desenvolvedor back-end e estudante da Universidade Paulista (UNIP). Atual
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-
 ## Contato
 
 <div>
@@ -35,5 +34,12 @@ Sou um desenvolvedor back-end e estudante da Universidade Paulista (UNIP). Atual
     <a href="https://www.instagram.com/pedrofavarao_/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
+</div>
+
+---
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofavarao&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=pedrofavarao&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
