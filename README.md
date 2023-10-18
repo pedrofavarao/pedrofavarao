@@ -20,6 +20,8 @@ Sou um desenvolvedor back-end e estudante da Universidade Paulista (UNIP). Atual
     <a href="https://www.docker.com/" title="Docker"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
     <a href="https://www.mysql.com/" title="MySQL"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
     <a href="https://www.postgresql.org/" title="PostgreSQL"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
+    <a href="https://git-scm.com/" title="Git"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+
 </div>
 
 ## Contato
