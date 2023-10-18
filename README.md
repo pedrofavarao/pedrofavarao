@@ -11,15 +11,15 @@ Sou um desenvolvedor back-end e estudante da Universidade Paulista (UNIP). Atual
 ## Linguagens e Tecnologias
 
 <div style="display: inline-block">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <a href="https://www.java.com/" title="Java"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+    <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+    <a href="https://www.python.org/" title="Python"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+    <a href="https://www.docker.com/" title="Docker"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
+    <a href="https://www.mysql.com/" title="MySQL"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
+    <a href="https://www.postgresql.org/" title="PostgreSQL"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
 </div>
 
 ## Contato
@@ -38,8 +38,14 @@ Sou um desenvolvedor back-end e estudante da Universidade Paulista (UNIP). Atual
 
 ---
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofavarao&show_icons=true&theme=dracula&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=pedrofavarao&show_icons=true&show_icons=true&theme=dracula&count_private=true" />
-</div>
+<table align="center">
+  <row>
+    <td>
+      <img height='180rem' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofavarao&layout=compact&langs_count=7&theme=react">
+    </td>
+    <td>
+      <img height='180rem' src="https://github-readme-stats.vercel.app/api?username=pedrofavarao&show_icons=true&theme=react&include_all_commits=true&count_private=true">
+    </td>
+  </row>
+</table>
 
