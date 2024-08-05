@@ -1,6 +1,6 @@
 ## Olá, eu sou Pedro Favarão
 
-Sou um desenvolvedor back-end e estudante da Universidade Paulista (UNIP). Atualmente, estou focado em aprender Java e o framework Spring.
+Sou um desenvolvedor back-end formado da Universidade Paulista (UNIP). Atualmente, estou focado em aprender Java e o framework Spring.
 
 ### O que você encontrará aqui:
 
