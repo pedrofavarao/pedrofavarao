@@ -21,6 +21,8 @@ Sou um desenvolvedor back-end formado da Universidade Paulista (UNIP). Atualment
     <a href="https://www.mysql.com/" title="MySQL"><img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
     <a href="https://www.postgresql.org/" title="PostgreSQL"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
     <a href="https://git-scm.com/" title="Git"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+    <a href="https://angular.io/" title="Angular"><img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"></a>
+    <a href="https://www.typescriptlang.org/" title="TypeScript"><img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
 
 </div>
 
