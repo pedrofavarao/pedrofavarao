@@ -1,10 +1,10 @@
 ## Olá, eu sou Pedro Favarão
 
-Desenvolvedor de Software Backend com experiência no desenvolvimento, manutenção e evolução de sistemas corporativos utilizando Java e ecossistema Spring, atuando em aplicações legadas, arquiteturas distribuídas e microsserviços.
+Desenvolvedor de Software Backend com experiência, trabalho com manutenção e evolução de sistemas corporativos utilizando Java e ecossistema Spring, atuando em aplicações legadas, arquiteturas distribuídas e microsserviços.
 
-Experiência na construção de APIs RESTful, integrações entre sistemas, mensageria, processamento assíncrono, arquitetura orientada a eventos e soluções escaláveis, resilientes e de alta disponibilidade.
+Atualmente com foco em construção de APIs RESTful, integrações entre sistemas, mensageria, processamento assíncrono, arquitetura orientada a eventos e soluções escaláveis, resilientes e de alta disponibilidade.
 
-Vivência com modernização de aplicações, troubleshooting, observabilidade, integração contínua, cloud e containers, além da aplicação de boas práticas de engenharia de software, incluindo SOLID, Clean Code, Clean Architecture, Design Patterns, TDD e testes automatizados.
+Outros comceitod que utilizo, modernização de aplicações, troubleshooting, observabilidade, integração contínua, cloud e containers, além da aplicação de boas práticas de engenharia de software, incluindo SOLID, Clean Code, Clean Architecture, Design Patterns, TDD e testes automatizados.
 
 ### O que você encontrará aqui:
 
