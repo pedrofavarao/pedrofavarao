@@ -4,7 +4,7 @@ Desenvolvedor de Software Backend com experiência, trabalho com manutenção e 
 
 Atualmente com foco em construção de APIs RESTful, integrações entre sistemas, mensageria, processamento assíncrono, arquitetura orientada a eventos e soluções escaláveis, resilientes e de alta disponibilidade.
 
-Outros comceitod que utilizo, modernização de aplicações, troubleshooting, observabilidade, integração contínua, cloud e containers, além da aplicação de boas práticas de engenharia de software, incluindo SOLID, Clean Code, Clean Architecture, Design Patterns, TDD e testes automatizados.
+Outros comceitos que utilizo, modernização de aplicações, troubleshooting, observabilidade, integração contínua, cloud e containers, além da aplicação de boas práticas de engenharia de software, incluindo SOLID, Clean Code, Clean Architecture, Design Patterns, TDD e testes automatizados.
 
 ### O que você encontrará aqui:
 
